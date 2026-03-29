@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a tailor carefully stitching a perfectly fitted suit on a single mannequin in the foreground, while many other mannequins in the background wear the same suit but it fits them poorly, wrinkled and mismatched, studio lighting, highly detailed, photorealistic, no text, no labels",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A perfect fit for one mannequin but poor fit for others represents overfitting to training data."
+}
