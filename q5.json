@@ -1,0 +1,7 @@
+{
+  "prompt": "A dark cinematic scene of a massive industrial skyline with a few enormous smokestacks dominating the horizon, releasing thick black smoke that spreads across the sky, while a large city beneath fades into shadow and suffocation, no text, no labels, photorealistic, emotional",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "A small number of sources contribute disproportionately to pollution affecting entire populations."
+}
